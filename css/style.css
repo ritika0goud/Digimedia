@@ -1,0 +1,60 @@
+
+
+body{
+	overflow-x: hidden;
+}
+	a:hover{
+	transform: translate3d(3px, 2px, 5px);
+}
+a:hover{
+	font-weight: bold;
+	text-decoration: underline;
+	background-color:lavender;
+}
+.ser-div{
+	cursor: pointer;
+}
+.ser-div:hover{
+	font-style: oblique;
+
+	
+}
+.btn{
+	border: 2px solid rgb(240, 40, 166);
+	color:rgb(240, 40, 166);
+}
+.btn:hover{
+	color:rgb(240, 40, 166);
+
+}
+
+.divs1:hover,.divs2:hover ,.divs3:hover ,.divs4:hover ,.divs5:hover{
+	transform: translate3d(-6px, 6px, -7px);
+	}
+
+.seoanl:hover{
+	
+	font-size: 15px;
+}
+.conicon img:hover{
+	transform: translate3d(3px, 3px, 3px);
+	cursor: pointer;
+}
+.conicon p:hover{
+	font-weight: 800;
+}
+input{
+	border: hidden;
+}
+.btn:hover{
+	background-color:lightpink;
+	font-size: 17px;
+}
+
+.sub{
+	border: hidden;
+}
+.sub:hover{
+border: 3px double;
+font-size: 17px;
+}
